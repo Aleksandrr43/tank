@@ -14,7 +14,7 @@ Make numbers and common name to tanks
         Tank customTank = new Tank(20, 30, 200);
         justTank.goForward(202);
         justTank.printPosition();
-        anywareTank.goBackward(-200);
+        anywareTank.goBackward(-250);
         //anywareTank.printPosition();
         customTank.goForward(200);
         customTank.printPosition();
