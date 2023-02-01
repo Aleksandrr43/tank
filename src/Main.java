@@ -18,6 +18,8 @@ Make numbers and common name to tanks
         //anywareTank.printPosition();
         customTank.goForward(200);
         customTank.printPosition();
+        System.out.println("fuckoff");
+
 
 /*
 This fragment of code has to output
